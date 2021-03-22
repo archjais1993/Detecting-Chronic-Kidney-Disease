@@ -21,7 +21,8 @@ Built the relationship model identifying factors leading to chronic kidney disea
 
 ## CONCEPTUAL Model
 
-![GitHub Logo](https://github.com/archjais1993/Detecting-Chronic-Kidney-Disease/blob/main/conceptual_model.PNG)
+![GitHub Logo](https://github.com/archjais1993/Detecting-Chronic-Kidney-Disease/blob/2e8dfa2829fb915a77b6c5fdef89005de1815f56/conceptual_model.png)
+
 
 ## VARIABLE SELECTION
 
@@ -39,15 +40,15 @@ Chi – Square test to identify the relation between categorical variables and t
 
 T-test to identify the relationship with target variables and the variable under consideration
 
-![GitHub Logo](https://github.com/archjais1993/Detecting-Chronic-Kidney-Disease/blob/main/data_exp.PNG)
+![GitHub Logo](https://github.com/archjais1993/Detecting-Chronic-Kidney-Disease/blob/2e8dfa2829fb915a77b6c5fdef89005de1815f56/data_exp.PNG)
 
 ## LOGISTIC REGRESSION
 
 Built the logistic regression model to understand the relation the between *variables* (predictors for the chronic kidney disorder) and the *traget variable* (weather an individual is affected or not)
 
-![GitHub](https://github.com/archjais1993/Detecting-Chronic-Kidney-Disease/blob/main/Logistic%20Regression.PNG)
+![GitHub](https://github.com/archjais1993/Detecting-Chronic-Kidney-Disease/blob/2e8dfa2829fb915a77b6c5fdef89005de1815f56/Logistic%20Regression.png)
 
-![GitHub](https://github.com/archjais1993/Detecting-Chronic-Kidney-Disease/blob/main/results.PNG)
+![GitHub](https://github.com/archjais1993/Detecting-Chronic-Kidney-Disease/blob/2e8dfa2829fb915a77b6c5fdef89005de1815f56/results.PNG)
 
 ## RESULTS
 
